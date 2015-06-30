@@ -1,0 +1,27 @@
+G:\Яндекс диск\СУБД Парикмахерской для Вити\Beauty_v1_1\Beauty_v1_1\bin\Release\Beauty_v1_1.exe.config
+G:\Яндекс диск\СУБД Парикмахерской для Вити\Beauty_v1_1\Beauty_v1_1\bin\Release\Beauty_v1_1.exe
+G:\Яндекс диск\СУБД Парикмахерской для Вити\Beauty_v1_1\Beauty_v1_1\bin\Release\Beauty_v1_1.pdb
+G:\Яндекс диск\СУБД Парикмахерской для Вити\Beauty_v1_1\Beauty_v1_1\obj\Release\Beauty_v1_1.Form1.resources
+G:\Яндекс диск\СУБД Парикмахерской для Вити\Beauty_v1_1\Beauty_v1_1\obj\Release\Beauty_v1_1.Properties.Resources.resources
+G:\Яндекс диск\СУБД Парикмахерской для Вити\Beauty_v1_1\Beauty_v1_1\obj\Release\Beauty_v1_1.Redactor.resources
+G:\Яндекс диск\СУБД Парикмахерской для Вити\Beauty_v1_1\Beauty_v1_1\obj\Release\Beauty_v1_1.ServiceWindow.resources
+G:\Яндекс диск\СУБД Парикмахерской для Вити\Beauty_v1_1\Beauty_v1_1\obj\Release\Beauty_v1_1.Settings.resources
+G:\Яндекс диск\СУБД Парикмахерской для Вити\Beauty_v1_1\Beauty_v1_1\obj\Release\Beauty_v1_1.csproj.GenerateResource.Cache
+G:\Яндекс диск\СУБД Парикмахерской для Вити\Beauty_v1_1\Beauty_v1_1\obj\Release\Beauty_v1_1.exe
+G:\Яндекс диск\СУБД Парикмахерской для Вити\Beauty_v1_1\Beauty_v1_1\obj\Release\Beauty_v1_1.pdb
+G:\Яндекс диск\СУБД Парикмахерской для Вити\Beauty_v1_1\Beauty_v1_1\obj\Release\Beauty_v1_1.Filters.resources
+G:\Яндекс диск\СУБД Парикмахерской для Вити\Beauty_v1_2_master_report\Beauty_v1_1\bin\Release\Beauty_v1_1.exe.config
+G:\Яндекс диск\СУБД Парикмахерской для Вити\Beauty_v1_2_master_report\Beauty_v1_1\obj\Release\Beauty_v1_1.exe
+G:\Яндекс диск\СУБД Парикмахерской для Вити\Beauty_v1_2_master_report\Beauty_v1_1\obj\Release\Beauty_v1_1.pdb
+G:\Яндекс диск\СУБД Парикмахерской для Вити\Beauty_v1_2_master_report\Beauty_v1_1\bin\Release\Beauty_v1_1.exe
+G:\Яндекс диск\СУБД Парикмахерской для Вити\Beauty_v1_2_master_report\Beauty_v1_1\bin\Release\Beauty_v1_1.pdb
+G:\Яндекс диск\СУБД Парикмахерской для Вити\Beauty_v1_2_master_report\Beauty_v1_1\obj\Release\Beauty_v1_1.Filters.resources
+G:\Яндекс диск\СУБД Парикмахерской для Вити\Beauty_v1_2_master_report\Beauty_v1_1\obj\Release\Beauty_v1_1.Form1.resources
+G:\Яндекс диск\СУБД Парикмахерской для Вити\Beauty_v1_2_master_report\Beauty_v1_1\obj\Release\Beauty_v1_1.Properties.Resources.resources
+G:\Яндекс диск\СУБД Парикмахерской для Вити\Beauty_v1_2_master_report\Beauty_v1_1\obj\Release\Beauty_v1_1.Redactor.resources
+G:\Яндекс диск\СУБД Парикмахерской для Вити\Beauty_v1_2_master_report\Beauty_v1_1\obj\Release\Beauty_v1_1.ServiceWindow.resources
+G:\Яндекс диск\СУБД Парикмахерской для Вити\Beauty_v1_2_master_report\Beauty_v1_1\obj\Release\Beauty_v1_1.Settings.resources
+G:\Яндекс диск\СУБД Парикмахерской для Вити\Beauty_v1_2_master_report\Beauty_v1_1\obj\Release\Beauty_v1_1.csproj.GenerateResource.Cache
+E:\Портфолио\Журнал работ для салона красоты\Исходный код\Beauty_v1_2_master_report\Beauty_v1_1\bin\Release\Beauty_v1_1.exe.config
+E:\Портфолио\Журнал работ для салона красоты\Исходный код\Beauty_v1_2_master_report\Beauty_v1_1\obj\Release\Beauty_v1_1.exe
+E:\Портфолио\Журнал работ для салона красоты\Исходный код\Beauty_v1_2_master_report\Beauty_v1_1\obj\Release\Beauty_v1_1.pdb
